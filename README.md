@@ -17,5 +17,11 @@
 # execution of this code to plain text encoding, or you will get a lot of words in your wordcloud
 # related to html formatting and other assorted nonsense 
 
+# NOTE: All text scraped from the Wall Street Journal's headline archive
+# (e.g. http://www.wsj.com/public/page/archive-2015-5-1.html)
+
+
+
+
 
 
