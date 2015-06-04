@@ -5,7 +5,7 @@
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 
   	<!--added for registration bypass2 October 3,2002-->
-<!-- CDS hostname /sbkj2kentwap08/ -->
+<!-- CDS hostname /sbkj2kentwap10/ -->
 <title>News Article Archive from April 24, 2015 - Wsj.com</title>
 <meta name="sitedomain" content="www.wsj.com" />
 <meta name="primaryproduct" content="Online Journal" />
@@ -22,10 +22,10 @@
 <script type="text/javascript" language="javascript" charset="utf-8"><!--
 var userName = '(none)';
 
-var serverTime = new Date("June 04, 2015 03:18:01");
+var serverTime = new Date("June 04, 2015 08:19:19");
 //--></script>
 <script type="text/javascript"><!--
-var openHouseMode="false",pDateinSpanish="jueves, 4 de junio, 2015, 03:17:55 EDT",uP="http://www.wsj.com",mpsection="WSJ_Archive",pDateinTurkish="04 Haziran 2015, Perşembe, 10:17 TSİ",isDenial="false",pDate="Thursday,&nbsp;June&nbsp;4,&nbsp;2015&nbsp;As of&nbsp;3:17&nbsp;AM&nbsp;EDT",_navText="Archive",gcLFU="https://commerce.wsj.com/auth/submitlogin",pID="0_0_WARCH_0001",cdnDomain="http://s.wsj.net",nSP="",parentTabID="HNTAB1",gcDomain="www.wsj.com",isTrial="false",isFree="true",PSSG="header0_0_WARCH_0001",pDateinJapanese="2015&#24180; 6月 04&#26085; (木曜日)",pDateinGerman="Donnerstag, 4. Juni 2015, 09:17:55 MESZ",gcHSP="https://",globalHeaderPageTitle="Technologie",pDateinGMT="Thursday,June 4, 2015 07:17:55 GMT",PSS="0_0_WARCH_0001",pStl="renovation",gcPH="/pj/PortfolioDisplay.cgi",pDateinKorean="목요일, 4. 6월 2015, 16:17:55 KST",pDateinIndonesian="Kamis, 4. Juni 2015, 14:17:55 WIT",pDateinPortuguese="Quinta-feira, 4 de Junho, 2015, 03:17:55 EDT";
+var openHouseMode="false",pDateinSpanish="jueves, 4 de junio, 2015, 08:19:13 EDT",uP="http://www.wsj.com",mpsection="WSJ_Archive",pDateinTurkish="04 Haziran 2015, Perşembe, 15:19 TSİ",isDenial="false",pDate="Thursday,&nbsp;June&nbsp;4,&nbsp;2015&nbsp;As of&nbsp;8:19&nbsp;AM&nbsp;EDT",_navText="Archive",gcLFU="https://commerce.wsj.com/auth/submitlogin",pID="0_0_WARCH_0001",cdnDomain="http://s.wsj.net",nSP="",parentTabID="HNTAB1",gcDomain="www.wsj.com",isTrial="false",isFree="true",PSSG="header0_0_WARCH_0001",pDateinJapanese="2015&#24180; 6月 04&#26085; (木曜日)",pDateinGerman="Donnerstag, 4. Juni 2015, 14:19:13 MESZ",gcHSP="https://",globalHeaderPageTitle="Technologie",pDateinGMT="Thursday,June 4, 2015 12:19:13 GMT",PSS="0_0_WARCH_0001",pStl="renovation",gcPH="/pj/PortfolioDisplay.cgi",pDateinKorean="목요일, 4. 6월 2015, 21:19:13 KST",pDateinIndonesian="Kamis, 4. Juni 2015, 19:19:13 WIT",pDateinPortuguese="Quinta-feira, 4 de Junho, 2015, 08:19:13 EDT";
 window.name = "wndMain"
 
 //--></script>
@@ -3123,5 +3123,5 @@ console.groupEnd();
 </body>
 </html>
 
-<!-- fastdynapage - sbkj2kentwap08 - Thu 06/04/15 - 03:17:55 EDT -->
+<!-- fastdynapage - sbkj2kentwap10 - Thu 06/04/15 - 08:19:13 EDT -->
 

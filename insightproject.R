@@ -216,7 +216,7 @@ summary(pca)
 loadings(pca)
 plot(pca,type="lines")
 pca$scores
-biplot(pca, xlim=c(-0.4, 0.4), ylim=c(-0.2, 0.2))
+biplot(pca)
 
 
 ## Out of curiosity, look at cross-correlograms between each keyword/price combination... 
@@ -232,8 +232,6 @@ biplot(pca, xlim=c(-0.4, 0.4), ylim=c(-0.2, 0.2))
 
 colnames(transdataframe) <- c("Trader","China","Energy","Oil","Migrant","Interest","Russia","Rate","Obama","Mad Men","Weather","ISIS","Deflategate","Dollar","Gold","Hillary","Bank","Water","Greece","Goldman","Baltimore","Gun")
 
-## Trying to determine if x variable is predictive for y variable
-## ccf(x var, y var, ...) 
 par(mar = rep(2, 4))
 xcorr <- ccf(transdataframe$Trader, prices$Apple, lag.max=NULL, type=c("correlation"), plot=TRUE)
 title("Trader vs. Apple")
